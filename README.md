@@ -5,4 +5,4 @@ according to the keywords it captures from the comments.
 
 They are segregated as good, bad and neutral using sentiment analysis.
 
-#THANK YOU
+THANK YOU
